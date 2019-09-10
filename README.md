@@ -1,3 +1,3 @@
 # fetching-react-hook
 
-use react hook for fetching data
+exemple use react hook for fetching data
